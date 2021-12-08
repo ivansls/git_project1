@@ -8,4 +8,4 @@ def super_function():
     print('yandex Lyceum')
 
 if __name__ == '__main__':
-    main()cc
+    main()cccc
